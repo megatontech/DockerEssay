@@ -1,0 +1,11 @@
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\bin\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.exe
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\bin\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.deps.json
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\bin\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.runtimeconfig.json
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\bin\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.runtimeconfig.dev.json
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\bin\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.dll
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\bin\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.pdb
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\obj\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.csprojAssemblyReference.cache
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\obj\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.AssemblyInfoInputs.cache
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\obj\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.AssemblyInfo.cs
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\obj\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.dll
+C:\Users\Yuri\source\repos\CoreConsoleAppForDockerDeploy\obj\Debug\netcoreapp3.0\CoreConsoleAppForDockerDeploy.pdb
